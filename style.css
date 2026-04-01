@@ -98,3 +98,11 @@ body{
 .sidebar a:hover {
   text-decoration: underline;
 }
+.sidebar a {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
